@@ -101,11 +101,7 @@ We welcome contributions! Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for g
 
 MIT License - see [LICENSE](./LICENSE) for details
 
-## 📞 Support
 
-- Email: support@aiscamshield.com
-- Documentation: https://docs.aiscamshield.com
-- Website: https://aiscamshield.com
 
 ---
 
